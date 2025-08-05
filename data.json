@@ -798,6 +798,18 @@
         "promo_code": null,
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/2491485",
+        "desc": [
+          "250 tl deneme bonusu"
+        ],
+        "site": "vaycasino",
+        "sort": null,
+        "color": "#ed312e",
+        "miktar": "₺250",
+        "promo_code_yok": "100 milyon tl çekim imkanı",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -888,42 +900,45 @@
         "sort": "3",
         "sites": [
           {
-            "site": "betkanyon",
-            "sort": "0"
-          },
-          {
-            "site": "sekabet",
+            "site": "vaycasino",
             "sort": "1"
           },
           {
-            "site": "misty",
+            "site": "betkanyon",
             "sort": "2"
           },
           {
-            "site": "winxbet",
+            "site": "sekabet",
             "sort": "3"
           },
           {
-            "site": "grandpashabet",
+            "site": "misty",
             "sort": "4"
           },
           {
-            "site": "spinco",
+            "site": "winxbet",
             "sort": "5"
           },
           {
-            "site": "kralbet",
+            "site": "grandpashabet",
             "sort": "6"
           },
           {
-            "site": "zbahis",
+            "site": "spinco",
+            "sort": "7"
+          },
+          {
+            "site": "kralbet",
             "sort": "8"
           },
           {
-            "site": "slotin",
+            "site": "zbahis",
             "sort": "9"
           },
-
+          {
+            "site": "slotin",
+            "sort": "10"
+          },
           {
             "site": "otobet",
             "sort": "11"
