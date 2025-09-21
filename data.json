@@ -846,6 +846,18 @@
         "miktar": "₺1.000",
         "promo_code_yok": "HOŞ GELDİN BONUSU İLK YATIRIMA ÖZEL %100",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/hrBYkYnU",
+        "desc": [
+          "333 FREE SPIN KAYIT BONUSU"
+        ],
+        "site": "garantibet",
+        "sort": null,
+        "color": "#019143",
+        "miktar": "333FS",
+        "promo_code_yok": "%20 KAYIP BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -960,7 +972,7 @@
             "sort": "8"
           },
           {
-            "site": "zbahis",
+            "site": "garantibet",
             "sort": "9"
           },
           {
@@ -980,48 +992,52 @@
             "sort": "13"
           },
           {
-            "site": "matadorbet",
+            "site": "zbahis",
             "sort": "14"
           },
           {
-            "site": "fixbet",
+            "site": "matadorbet",
             "sort": "15"
           },
           {
-            "site": "zlot",
+            "site": "fixbet",
             "sort": "16"
           },
           {
-            "site": "ramadabet",
+            "site": "zlot",
             "sort": "17"
           },
           {
-            "site": "bankobet",
+            "site": "ramadabet",
             "sort": "18"
           },
           {
-            "site": "betewin",
+            "site": "bankobet",
             "sort": "19"
           },
           {
-            "site": "betkom",
+            "site": "betewin",
             "sort": "20"
           },
           {
-            "site": "tarafbet",
+            "site": "betkom",
             "sort": "21"
           },
           {
-            "site": "bahiscom",
+            "site": "tarafbet",
             "sort": "22"
           },
           {
-            "site": "mariobet",
+            "site": "bahiscom",
             "sort": "23"
           },
           {
-            "site": "bahisal",
+            "site": "mariobet",
             "sort": "24"
+          },
+          {
+            "site": "bahisal",
+            "sort": "25"
           }
         ]
       },
