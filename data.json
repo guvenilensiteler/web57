@@ -858,6 +858,18 @@
         "miktar": "333FS",
         "promo_code_yok": "%20 KAYIP BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/OgedayProVNM",
+        "desc": [
+          "ÜYE OL, BONUSU AL"
+        ],
+        "site": "venombet",
+        "sort": null,
+        "color": "#ff002b",
+        "miktar": "₺700",
+        "promo_code_yok": "%50 SLOT BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -950,38 +962,42 @@
 
           {
             "site": "betkanyon",
-            "sort": "2"
+            "sort": "1"
           },
           {
             "site": "sekabet",
-            "sort": "3"
+            "sort": "2"
           },
           {
             "site": "misty",
-            "sort": "4"
+            "sort": "3"
           },
           {
             "site": "spinco",
-            "sort": "7"
+            "sort": "4"
           },
           {
             "site": "kralbet",
-            "sort": "8"
+            "sort": "7"
           },
           {
             "site": "garantibet",
-            "sort": "9"
+            "sort": "8"
           },
           {
             "site": "slotin",
-            "sort": "10"
+            "sort": "9"
           },
           {
             "site": "betci",
-            "sort": "11"
+            "sort": "10"
           },
           {
             "site": "betbox",
+            "sort": "11"
+          },
+          {
+            "site": "venombet",
             "sort": "12"
           },
           {
