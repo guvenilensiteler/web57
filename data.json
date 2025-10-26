@@ -870,6 +870,18 @@
         "miktar": "₺700",
         "promo_code_yok": "%50 SLOT BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/ZumabetOgedayPro",
+        "desc": [
+          "YENİ ÜYELERE ÖZEL"
+        ],
+        "site": "zumabet",
+        "sort": null,
+        "color": "#68d38a",
+        "miktar": "200FS",
+        "promo_code_yok": "200 FREE SPIN HEDİYE",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -980,21 +992,24 @@
             "site": "kralbet",
             "sort": "7"
           },
-
           {
             "site": "slotin",
-            "sort": "9"
+            "sort": "8"
           },
           {
             "site": "betci",
-            "sort": "10"
+            "sort": "9"
           },
           {
             "site": "betbox",
-            "sort": "11"
+            "sort": "10"
           },
           {
             "site": "venombet",
+            "sort": "11"
+          },
+          {
+            "site": "zumabet",
             "sort": "12"
           },
           {
