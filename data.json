@@ -1033,80 +1033,84 @@
             "sort": "8"
           },
           {
-            "site": "betci",
+            "site": "zumabet",
             "sort": "9"
           },
           {
-            "site": "betbox",
+            "site": "betci",
             "sort": "10"
           },
           {
-            "site": "venombet",
+            "site": "betbox",
             "sort": "11"
           },
           {
-            "site": "getirbet",
+            "site": "venombet",
             "sort": "12"
           },
           {
-            "site": "supertotobet",
+            "site": "getirbet",
             "sort": "13"
           },
           {
-            "site": "otobet",
+            "site": "supertotobet",
             "sort": "14"
           },
           {
-            "site": "zbahis",
+            "site": "otobet",
             "sort": "15"
           },
           {
-            "site": "matadorbet",
+            "site": "zbahis",
             "sort": "16"
           },
           {
-            "site": "fixbet",
+            "site": "matadorbet",
             "sort": "17"
           },
           {
-            "site": "zlot",
+            "site": "fixbet",
             "sort": "18"
           },
           {
-            "site": "ramadabet",
+            "site": "zlot",
             "sort": "19"
           },
           {
-            "site": "bankobet",
+            "site": "ramadabet",
             "sort": "20"
           },
           {
-            "site": "betewin",
+            "site": "bankobet",
             "sort": "21"
           },
           {
-            "site": "betkom",
+            "site": "betewin",
             "sort": "22"
           },
           {
-            "site": "tarafbet",
+            "site": "betkom",
             "sort": "23"
           },
           {
-            "site": "bahiscom",
+            "site": "tarafbet",
             "sort": "24"
           },
           {
-            "site": "mariobet",
+            "site": "bahiscom",
             "sort": "25"
           },
           {
-            "site": "bahisal",
+            "site": "mariobet",
             "sort": "26"
           },
           {
-            "site": "spinco",
+            "site": "bahisal",
             "sort": "27"
+          },
+          {
+            "site": "spinco",
+            "sort": "28"
           }
         ]
       },
