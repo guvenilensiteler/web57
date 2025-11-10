@@ -882,6 +882,42 @@
         "miktar": "200FS",
         "promo_code_yok": "200 FREE SPIN HEDİYE",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/tr9Dwiop",
+        "desc": [
+          "1000TL DENEME BONUSU"
+        ],
+        "site": "supertotobet",
+        "sort": null,
+        "color": "#ff003c",
+        "miktar": "₺1.000",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/5r61R6da",
+        "desc": [
+          "1000TL KAYIP BONUSU"
+        ],
+        "site": "dodobet",
+        "sort": null,
+        "color": "#2587f4",
+        "miktar": "₺1.000",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/ogedaygetirbet",
+        "desc": [
+          "%375 HOŞ GELDİN BONUSU"
+        ],
+        "site": "getirbet",
+        "sort": null,
+        "color": "#923ec7",
+        "miktar": "₺1.000",
+        "promo_code": null,
+        "slider_img": ""
       }
     ],
     "social": {
@@ -985,7 +1021,7 @@
             "sort": "3"
           },
           {
-            "site": "spinco",
+            "site": "dodobet",
             "sort": "4"
           },
           {
@@ -1009,60 +1045,68 @@
             "sort": "11"
           },
           {
-            "site": "zumabet",
+            "site": "getirbet",
             "sort": "12"
           },
           {
-            "site": "otobet",
+            "site": "supertotobet",
             "sort": "13"
           },
           {
-            "site": "zbahis",
+            "site": "otobet",
             "sort": "14"
           },
           {
-            "site": "matadorbet",
+            "site": "zbahis",
             "sort": "15"
           },
           {
-            "site": "fixbet",
+            "site": "matadorbet",
             "sort": "16"
           },
           {
-            "site": "zlot",
+            "site": "fixbet",
             "sort": "17"
           },
           {
-            "site": "ramadabet",
+            "site": "zlot",
             "sort": "18"
           },
           {
-            "site": "bankobet",
+            "site": "ramadabet",
             "sort": "19"
           },
           {
-            "site": "betewin",
+            "site": "bankobet",
             "sort": "20"
           },
           {
-            "site": "betkom",
+            "site": "betewin",
             "sort": "21"
           },
           {
-            "site": "tarafbet",
+            "site": "betkom",
             "sort": "22"
           },
           {
-            "site": "bahiscom",
+            "site": "tarafbet",
             "sort": "23"
           },
           {
-            "site": "mariobet",
+            "site": "bahiscom",
             "sort": "24"
           },
           {
-            "site": "bahisal",
+            "site": "mariobet",
             "sort": "25"
+          },
+          {
+            "site": "bahisal",
+            "sort": "26"
+          },
+          {
+            "site": "spinco",
+            "sort": "27"
           }
         ]
       },
