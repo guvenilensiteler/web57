@@ -918,6 +918,18 @@
         "miktar": "₺1.000",
         "promo_code": null,
         "slider_img": ""
+      },
+      {
+        "url": "https://molde.click/?refId=1124",
+        "desc": [
+          "222 TL KAYIT BONUSU"
+        ],
+        "site": "moldebet",
+        "sort": null,
+        "color": "#00f0ff",
+        "miktar": "₺222",
+        "promo_code_yok": "%20 KAYIP BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -1007,13 +1019,12 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-
           {
-            "site": "betkanyon",
+            "site": "ramadabet",
             "sort": "1"
           },
           {
-            "site": "sekabet",
+            "site": "venombet",
             "sort": "2"
           },
           {
@@ -1026,14 +1037,22 @@
           },
           {
             "site": "kralbet",
-            "sort": "7"
+            "sort": "5"
           },
           {
             "site": "slotin",
-            "sort": "8"
+            "sort": "6"
           },
           {
             "site": "zumabet",
+            "sort": "7"
+          },
+          {
+            "site": "betkanyon",
+            "sort": "8"
+          },
+          {
+            "site": "sekabet",
             "sort": "9"
           },
           {
@@ -1045,7 +1064,7 @@
             "sort": "11"
           },
           {
-            "site": "venombet",
+            "site": "moldebet",
             "sort": "12"
           },
           {
@@ -1075,10 +1094,6 @@
           {
             "site": "zlot",
             "sort": "19"
-          },
-          {
-            "site": "ramadabet",
-            "sort": "20"
           },
           {
             "site": "bankobet",
