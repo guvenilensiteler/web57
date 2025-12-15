@@ -930,6 +930,30 @@
         "miktar": "₺222",
         "promo_code_yok": "%20 KAYIP BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ogeasus",
+        "desc": [
+          "KAT SINIRI YOK! SINIRSIZ ÇEKİM"
+        ],
+        "site": "betasus",
+        "sort": null,
+        "color": "#c59d48",
+        "miktar": "₺2.000",
+        "promo_code_yok": "YENİ ÜYELERE ÖZEL 2.000 TL DENEME BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://tr.fgtrack.net/click?key=07e6f04839ba212a3a25&uid=Z40kGq5jgCQFAF8pIKwVJMSxfJ63&domain=casitap.com&offer_id=6",
+        "desc": [
+          "1.000 TL KAYIT BONUSU"
+        ],
+        "site": "casitap",
+        "sort": null,
+        "color": "#fe6e6e",
+        "miktar": "₺1.000",
+        "promo_code_yok": "ÜYE OL, BONUSU AL!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -1019,10 +1043,7 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-          {
-            "site": "ramadabet",
-            "sort": "1"
-          },
+
           {
             "site": "venombet",
             "sort": "2"
@@ -1040,11 +1061,11 @@
             "sort": "5"
           },
           {
-            "site": "slotin",
+            "site": "betasus",
             "sort": "6"
           },
           {
-            "site": "zumabet",
+            "site": "casitap",
             "sort": "7"
           },
           {
@@ -1063,14 +1084,7 @@
             "site": "betbox",
             "sort": "11"
           },
-          {
-            "site": "moldebet",
-            "sort": "12"
-          },
-          {
-            "site": "getirbet",
-            "sort": "13"
-          },
+
           {
             "site": "supertotobet",
             "sort": "14"
@@ -1126,6 +1140,10 @@
           {
             "site": "spinco",
             "sort": "28"
+          },
+          {
+            "site": "slotin",
+            "sort": "29"
           }
         ]
       },
