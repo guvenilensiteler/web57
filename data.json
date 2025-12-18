@@ -954,6 +954,18 @@
         "miktar": "₺1.000",
         "promo_code_yok": "ÜYE OL, BONUSU AL!",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/lty6euHH",
+        "desc": [
+          "1.000 TL KAYIT BONUSU"
+        ],
+        "site": "betturkey",
+        "sort": null,
+        "color": "#ffdd3a",
+        "miktar": "₺1.000",
+        "promo_code_yok": "%30 DISCOUNT",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -1077,12 +1089,8 @@
             "sort": "9"
           },
           {
-            "site": "betci",
+            "site": "betturkey",
             "sort": "10"
-          },
-          {
-            "site": "betbox",
-            "sort": "11"
           },
 
           {
