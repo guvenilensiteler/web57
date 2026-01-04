@@ -966,6 +966,18 @@
         "miktar": "₺1.000",
         "promo_code_yok": "%30 DISCOUNT",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ctg0NxxG",
+        "desc": [
+          "1.000 TL KAYIT BONUSU"
+        ],
+        "site": "romabet",
+        "sort": null,
+        "color": "#ec2c47",
+        "miktar": "₺1.000",
+        "promo_code_yok": "%30 DISCOUNT",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -1089,7 +1101,7 @@
             "sort": "9"
           },
           {
-            "site": "betturkey",
+            "site": "romabet",
             "sort": "10"
           },
 
