@@ -978,6 +978,30 @@
         "miktar": "₺1.000",
         "promo_code_yok": "%30 DISCOUNT",
         "slider_img": ""
+      },
+      {
+        "url": "https://vegasslot.click/?refId=32566",
+        "desc": [
+          "%375 HOŞGELDİN BONUSU"
+        ],
+        "site": "vegasslot",
+        "sort": null,
+        "color": "#e1b23b",
+        "miktar": "100FS",
+        "promo_code_yok": "%50 SPOR İADE BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/utsucIT9",
+        "desc": [
+          "1.000 TL DENEME BONUSU"
+        ],
+        "site": "starora",
+        "sort": null,
+        "color": "#ff0064",
+        "miktar": "₺1.000",
+        "promo_code_yok": "%100 HOŞGELDİN İLK YATIRIM BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -1126,8 +1150,12 @@
             "sort": "18"
           },
           {
-            "site": "zlot",
+            "site": "vegasslot",
             "sort": "19"
+          },
+          {
+            "site": "starora",
+            "sort": "20"
           },
           {
             "site": "bankobet",
@@ -1160,10 +1188,6 @@
           {
             "site": "spinco",
             "sort": "28"
-          },
-          {
-            "site": "slotin",
-            "sort": "29"
           }
         ]
       },
