@@ -1002,6 +1002,30 @@
         "miktar": "₺1.000",
         "promo_code_yok": "%100 HOŞGELDİN İLK YATIRIM BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/7tjHqVMC",
+        "desc": [
+          "1.000 TL KAYIT BONUSU"
+        ],
+        "site": "hepsibet",
+        "sort": null,
+        "color": "#543aa5",
+        "miktar": "₺1.000",
+        "promo_code": "OGEDAY1000",
+        "slider_img": ""
+      },
+      {
+        "url": "https://go.aff.bibubetortaklik.com/kx6q3m1y",
+        "desc": [
+          "%100 KAYIT BONUSU"
+        ],
+        "site": "bubibet",
+        "sort": null,
+        "color": "#ffcb00",
+        "miktar": "₺500",
+        "promo_code_yok": "%20 DISCOUNT",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -1127,6 +1151,14 @@
           {
             "site": "romabet",
             "sort": "10"
+          },
+          {
+            "site": "hepsibet",
+            "sort": "11"
+          },
+          {
+            "site": "bubibet",
+            "sort": "12"
           },
 
           {
