@@ -1026,6 +1026,42 @@
         "miktar": "₺500",
         "promo_code_yok": "%20 DISCOUNT",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ogedaypro",
+        "desc": [
+          "ÜYE OL 300₺ DENEME BONUSU AL"
+        ],
+        "site": "maxwin",
+        "sort": null,
+        "color": "#acf000",
+        "miktar": "₺300",
+        "promo_code_yok": "Kaybetmek yok! ANLIK %33 Discount",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ogedaypro",
+        "desc": [
+          "ÜYE OL 2.000₺ DENEME BONUSU AL"
+        ],
+        "site": "maxwin",
+        "sort": null,
+        "color": "#acf000",
+        "miktar": "₺2.000",
+        "promo_code_yok": "Kaybetmek yok! ANLIK %33 Discount",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ogedayproryl",
+        "desc": [
+          "HER GÜN %100 NAKİT İADE!"
+        ],
+        "site": "royalbet",
+        "sort": null,
+        "color": "#ebe029",
+        "miktar": "₺2.000",
+        "promo_code_yok": "HAFTA SONU %50 CASİNO YATIRIM BONUSU!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -1120,7 +1156,10 @@
             "site": "venombet",
             "sort": "2"
           },
-
+          {
+            "site": "maxwin",
+            "sort": "3"
+          },
           {
             "site": "dodobet",
             "sort": "4"
@@ -1133,7 +1172,10 @@
             "site": "betasus",
             "sort": "6"
           },
-
+          {
+            "site": "royalbet",
+            "sort": "7"
+          },
           {
             "site": "betkanyon",
             "sort": "8"
