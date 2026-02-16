@@ -1180,7 +1180,10 @@
             "site": "betkanyon",
             "sort": "8"
           },
-
+          {
+            "site": "slotin",
+            "sort": "9"
+          },
           {
             "site": "romabet",
             "sort": "10"
